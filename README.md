@@ -1,4 +1,4 @@
-## Hi!👋 I'm Michael Amao
+## Hi!👋 I'm Michael
 
 
 ###
@@ -7,8 +7,7 @@
   
 ### ABOUT ME 🙋🏾‍♂️
 
-- 🏫 Software Engineering Student @ Babcock University.
-- 👨🏽‍💻 Fullstack Developer.
+- 🏫 Software Engineer.
 - 💪🏾 I'm looking to collaborate on projects.
 - 📷 I'm also a photographer - [VIEW MY INSTAGRAM](https://www.instagram.com/_sorethe.grapher).
 
